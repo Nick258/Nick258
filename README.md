@@ -1,9 +1,11 @@
+
 ### Hi there 👋 
 My name is Nikolas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick258&theme=dracula&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick258&theme=cobalt2&show_icons=true)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nick258&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
 
 <!--
 **Nick258/Nick258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
