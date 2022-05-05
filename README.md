@@ -1,6 +1,8 @@
 ### Hi there 👋 
 My name is Nikolas
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick258&theme=dracula&show_icons=true)
+
 <!--
 **Nick258/Nick258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
